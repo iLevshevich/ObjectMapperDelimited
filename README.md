@@ -2,7 +2,7 @@
 "Object mapper" is lightweight library for objects mapping without dependencies
 
 ### Documentation:
-[Wiki](https://github.com/iLevshevich/ObjectMapperDelimited/wiki)
+* [Wiki](https://github.com/iLevshevich/ObjectMapperDelimited/wiki)
 
 ### Platform:
 * Java 1.8
