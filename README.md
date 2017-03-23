@@ -1,7 +1,8 @@
 ## Object mapper delimited
 "Object mapper" is lightweight library for objects mapping without dependencies
 
-Wiki [click](https://github.com/iLevshevich/ObjectMapperDelimited/wiki)
+### Documentation:
+[Wiki](https://github.com/iLevshevich/ObjectMapperDelimited/wiki)
 
 ### Platform:
 * Java 1.8
